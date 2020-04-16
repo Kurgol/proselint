@@ -235,7 +235,7 @@ Additionally for compatible reason, the legacy configuration `~/.proselintrc` wi
 
 ### Contributing
 
-Interested in contributing to `proselint`? Great — there are plenty of ways you can help. Read more on [our website](http://proselint.com/contributing/), where we describe how you can help us build `proselint` into the greatest writing tool in the world.
+Interested in contributing to `proselint`? Great, there are plenty of ways you can help. Read more on [our website](http://proselint.com/contributing/), where we describe how you can help us build `proselint` into the greatest writing tool in the world.
 
 - [Issue Tracker](http://github.com/amperser/proselint/issues)
 - [Source Code](http://github.com/amperser/proselint)
